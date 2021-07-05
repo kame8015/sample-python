@@ -1,4 +1,5 @@
 boto3
+Pillow
 black
 flake8
 mypy
